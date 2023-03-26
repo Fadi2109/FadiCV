@@ -123,7 +123,7 @@ var myProjects = [
     desc: "A website for a programming course",
     technologise: ["HTML", "CSS", "JS"],
     createdAt: "1/3/2023",
-    link: "https://fadi2109.github.io/galleryProCode/",
+    link: "https://fadi2109.github.io/ProCode-ToBeProgrammer/",
     img: "https://usa.bootcampcdn.com/wp-content/uploads/sites/108/2021/03/CDG_blog_post_image_05-1.jpg",
   },
 ];
